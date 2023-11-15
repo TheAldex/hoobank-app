@@ -1,5 +1,5 @@
 # MODERN BANK WEB APP
-Modern Bank Web Application developed using ReactJS, Tailwind and Vite.
+Modern Bank Frontend Web Application developed using ReactJS, Tailwind and Vite.
 
 To test the application:
 - Clone the repository.
